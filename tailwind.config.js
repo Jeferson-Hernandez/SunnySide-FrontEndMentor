@@ -23,7 +23,7 @@ module.exports = {
       },
       screens: {
         md: "376px",
-        lg: "971px",
+        lg: "800px",
         xl: "1200px",
       },
       letterSpacing: {

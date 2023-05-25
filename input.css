@@ -15,11 +15,26 @@ a img.icon:hover {
     font-size: 7.75vw;
 }
 
-.font-lg {
+.font-lg, .header-lg {
     font-size: 4.75vw;
 }
 
-/* .img {
-    max-width: 100%;
-    object-fit: cover;
-} */
+
+
+@media (min-width: 800px) {
+    .font-lg {
+        font-size: 1.6vw;
+    }
+    .header-lg {
+        font-size: 2vw;
+    }
+}
+
+@media (min-width: 1440px) {
+    .font-lg {
+        font-size: 1.25rem;
+    }
+    .header-lg {
+        font-size: 1.75rem;
+    }
+}
