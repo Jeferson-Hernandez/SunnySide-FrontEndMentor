@@ -1,0 +1,25 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+.icon {
+    filter: invert(50%) sepia(19%) saturate(1140%) hue-rotate(118deg) brightness(92%) contrast(89%);
+}
+
+a img.icon:hover {
+    filter: invert(100%) sepia(100%) saturate(0%) hue-rotate(339deg) brightness(150%) contrast(102%);
+}
+
+.font-sm {
+    font-size: 7.75vw;
+}
+
+.font-lg {
+    font-size: 4.75vw;
+}
+
+/* .img {
+    max-width: 100%;
+    object-fit: cover;
+} */
