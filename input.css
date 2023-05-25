@@ -19,6 +19,20 @@ a img.icon:hover {
     font-size: 4.75vw;
 }
 
+#menu::before {
+    content: '';
+    position: absolute;
+    right: -1rem;
+    top: -7%;
+    height: 0px;
+    width: 0px;
+    border-radius: 2px;
+    border-left: 26px solid transparent;
+    border-right: 20px solid transparent;
+    transform: rotate(135deg);
+    border-bottom: 26px solid white;
+}
+
 
 
 @media (min-width: 800px) {
