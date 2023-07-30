@@ -1,13 +1,13 @@
-# Front-End Mentor Project - SunnySide
+# Sunnyside
 
-Result of the project sunnyside from front-end mentor with tailwindcss
+![Sunnyside-image](https://github.com/Jeferson-Hernandez/SunnySide-FrontEndMentor/blob/main/images/sunnyside-banner.jpg)
 
-## Usage
+---
 
-Install dependencies
+Solución de uno de los retos disponibles en la web **Frontend mentor**
 
-```
-npm install
-```
+Para visualizar el reto en cuestión [sunnyside](https://www.frontendmentor.io/challenges/sunnyside-agency-landing-page-7yVs3B6ef)
 
-Run Tailwind CLI in watch mode
+#### Realizado con las siguientes tecnologías
+
+[![Html](https://img.shields.io/badge/Html-red?style=&logo=html5&logoColor=red&labelColor=white)]() [![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=&logo=javascript&logoColor=yellow&labelColor=white)]() [![TailwindCSS](https://img.shields.io/badge/TailwindCSS-blue?style=&logo=TailwindCSS&logoColor=blue&labelColor=white)]()
